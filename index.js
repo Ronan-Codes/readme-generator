@@ -65,7 +65,7 @@ const questions = () => {
             type: 'list',
             name: 'license',
             message: 'Which license should your project have?',
-            choices: [ 'APACHE 2.0', 'MIT', 'ISC', 'GPL 3.0', 'BSD 2.0' ]
+            choices: [ 'APACHE 2.0', 'MIT', 'ISC', 'GPL 3.0', 'BSD 2.0', 'NONE' ]
         },
         {
             type: 'input',
