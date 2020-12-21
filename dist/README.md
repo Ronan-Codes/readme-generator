@@ -4,7 +4,7 @@
 
 ## Description
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@
 
 ## Installation
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
 
 ## Usage
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
 
 ## License
 
@@ -29,11 +29,11 @@ Licensed under the [GPL 3.0](./license.txt) license.
 
 ## Contributing
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
 
 ## Tests
 
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure quis? Quas voluptatibus amet, tempora fugiat eaque architecto corrupti, earum culpa quo odio voluptate cum dignissimos iste cupiditate dolorem.
 
 ## Questions
 
