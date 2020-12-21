@@ -12,7 +12,7 @@ const writeFile = fileContent => {
 
             resolve({
                 ok: true,
-                message: 'README.md created!'
+                message: 'README.md created at ./dist folder!'
             });
         });
     });
