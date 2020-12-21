@@ -1,6 +1,6 @@
-# Run-Buddy
+# RunBuddy
 
-![GitHub](https://img.shields.io/badge/License-GPL 3.0-blue)
+![GitHub](https://img.shields.io/badge/License-APACHE 2.0-blue)
 
 ## Description
 
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus ipsum iure qui
 
 ## License
 
-Licensed under the [GPL 3.0](./license.txt) license.
+Licensed under the [APACHE 2.0](./license.txt) license.
 
 ## Contributing
 
