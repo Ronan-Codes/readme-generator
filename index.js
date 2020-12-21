@@ -2,10 +2,10 @@
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
-const { writeFile } = require('./utils/writeFile.js');
+const writeFile = require('./utils/writeFile.js');
 
 // TODO: Create an array of questions for user input
-const questions = () => {
+const promptUser = () => {
     return inquirer.prompt([
         {
             type: 'input',
@@ -90,7 +90,16 @@ function init() {}
 // Function call to initialize app
 init();
 */
-questions()
-    .then(answers => {
-        console.log(answers)
-    });
+promptUser()
+.then(userData => {
+    return generateMarkdown(userData);
+})
+.then(readmeContent => {
+    return writeFile(readmeContent);
+})
+.then(writeFileResponse => {
+    console.log(writeFileResponse);
+})
+.catch(err => {
+    console.log(err);
+});

@@ -18,56 +18,55 @@ const renderLicenseSection = license => {
   if (license === "NONE") {
     return '';
   } else {
-    return `
-    ## License
+    return `## License
 
-    Licensed under the [${license}](./license.txt) license.`
+Licensed under the [${license}](./license.txt) license.`
   };
 };
 
 
 // TODO: Create a function to generate markdown for README
-module.exports = data => {
-  return `
-    # ${data.title}
+const readmeTemplate = data => {
+  return `# ${data.title}
 
-    ${renderLicenseBadge(data.license)}
+${renderLicenseBadge(data.license)}
 
-    ## Description
+## Description
 
-    ${data.description}
+${data.description}
 
-    ## Table of Contents
+## Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Licenses](#license)
-    * [Contributing](#contributing)
-    * [Tests](#tests)
-    * [Questions](#questions)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Licenses](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
-    ## Installation
+## Installation
 
-    ${data.installation}
+${data.installation}
 
-    ## Usage
+## Usage
 
-    ${data.usage}
+${data.usage}
 
-    ${renderLicenseSection(data.license)}
+${renderLicenseSection(data.license)}
 
-    ## Contributing
+## Contributing
 
-    ${data.contributing}
+${data.contributing}
 
-    ## Tests
+## Tests
 
-    ${data.tests}
+${data.tests}
 
-    ## Questions
+## Questions
 
-    * If you have any questions/suggestions/concernes, open an issue in the README-Generator repository of my GitHub profile [${data.username}](https://github.com/${data.username}).
-    * Or contact me directly at ${data.email}.
-
+* If you have any questions/suggestions/concernes, open an issue in the README-Generator repository of my GitHub profile [${data.username}](https://github.com/${data.username}).
+* Or contact me directly at ${data.email}.
 `;
 }
+
+module.exports = readmeTemplate
