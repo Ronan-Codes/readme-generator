@@ -4,7 +4,7 @@ const renderLicenseBadge = license => {
   if (license === "NONE") {
     return '';
   } else {
-      license.replace(/\s/g,'');
+      license.replace(/ /g,'');
       return `![GitHub](https://img.shields.io/badge/License-${license}-blue)`
   };
 };
