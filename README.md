@@ -45,7 +45,7 @@ Once finished with installation, follow these steps to utilize the command line 
 3. Answer all of the prompt questions regarding your project's information
 4. Once your done with all of the prompts, your README.md file will be created in the ./dist folder!
 
-* For a video on the typical user flor of this readme-generator, watch this [video]()
+* For a video on the typical user flor of this readme-generator, watch this [video](https://drive.google.com/file/d/1qyd7epw5h-pWF5rMsDF2ZpWgV3k93J72/view)
 
 ## Contributing
 
