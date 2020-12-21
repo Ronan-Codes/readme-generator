@@ -1,6 +1,6 @@
-# RunBuddy
+# Run-Buddy
 
-![GitHub](https://img.shields.io/badge/License-MIT-blue)
+![GitHub](https://img.shields.io/badge/License-GPL 3.0-blue)
 
 ## Description
 
@@ -25,7 +25,7 @@
 
 ## License
 
-Licensed under the [MIT](./license.txt) license.
+Licensed under the [GPL 3.0](./license.txt) license.
 
 ## Contributing
 
